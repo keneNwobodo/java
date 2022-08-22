@@ -28,7 +28,7 @@ public class MethodJava {
         a = b;
         b = c;
         System.out.println("Swap insise the func a =  " + a + "b = " + b);
-
+ 
     }
 
     public static void main(String args[]) {
