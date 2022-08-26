@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch TicTac",
+      "request": "launch",
+      "mainClass": "TicTac",
+      "projectName": "java_f8e79152"
+    },
+    {
+      "type": "java",
       "name": "Launch MethodOverload",
       "request": "launch",
       "mainClass": "MethodOverload",
